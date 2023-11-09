@@ -5,6 +5,9 @@ I have break from MK and I didn't know about projects, so I am sending this one.
 
 I made magic mirror for my girlfriend. It's venetian mirror with tablet inside. It shows random text from the array, but if there are tasks to be completed on the current day, the mirror displays these tasks
 
+![image](https://github.com/Mati5241/mirror-app/assets/143203781/67c13b4f-8edb-4782-af75-eef832ba290e)
+
+
 ## Technology
 <div align="center">
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
