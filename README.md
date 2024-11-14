@@ -1,7 +1,7 @@
 
 # Magic Mirror
 
-I made magic mirror for my girlfriend. It's venetian mirror with tablet inside. It shows random text from the array, but if there are tasks to be completed on the current day, the mirror displays these tasks
+Venetian mirror with tablet inside. It shows random text from the array, but if there are tasks to be completed on the current day, the mirror displays these tasks
 
 ![image](https://github.com/Mati5241/mirror-app/assets/143203781/67c13b4f-8edb-4782-af75-eef832ba290e)
 
